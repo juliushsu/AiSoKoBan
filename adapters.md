@@ -1,0 +1,4 @@
+adapter_kisho_machine
+adapter_lensbank
+adapter_external_shopify（未來）
+adapter_rest_api
