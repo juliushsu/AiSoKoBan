@@ -1,0 +1,4 @@
+inventory_read_v1
+inventory_write_v1
+inventory_reserve_v1
+inventory_commit_v1
